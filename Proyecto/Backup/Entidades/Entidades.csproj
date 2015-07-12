@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DBCC57D3-E9E0-4311-BD14-6BEAD763F954}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Entidades</RootNamespace>
+    <AssemblyName>Entidades</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="actividadesdgr.cs" />
+    <Compile Include="anulacioncomprobante.cs" />
+    <Compile Include="area.cs" />
+    <Compile Include="asiento.cs" />
+    <Compile Include="banco.cs" />
+    <Compile Include="cambiomoneda.cs" />
+    <Compile Include="CategoriaSueldos.cs" />
+    <Compile Include="causasEmision.cs" />
+    <Compile Include="centrocostos.cs" />
+    <Compile Include="cheque.cs" />
+    <Compile Include="chequedeterceros.cs" />
+    <Compile Include="chequepropio.cs" />
+    <Compile Include="cliente.cs" />
+    <Compile Include="clientedatosimpositivos.cs" />
+    <Compile Include="clienteotrosdatos.cs" />
+    <Compile Include="Cobranza.cs" />
+    <Compile Include="Compras.cs" />
+    <Compile Include="ComprobanteCompra.cs" />
+    <Compile Include="comprobanteVenta.cs" />
+    <Compile Include="concepto.cs" />
+    <Compile Include="ConceptoLiquidar.cs" />
+    <Compile Include="conceptonoiva.cs" />
+    <Compile Include="condicionesventa.cs" />
+    <Compile Include="CondicionPago.cs" />
+    <Compile Include="condicionVenta.cs" />
+    <Compile Include="contrato.cs" />
+    <Compile Include="cuenta.cs" />
+    <Compile Include="CuentaCorriente.cs" />
+    <Compile Include="departamento.cs" />
+    <Compile Include="descuentoBonificacion.cs" />
+    <Compile Include="descuentoscomerciales.cs" />
+    <Compile Include="descuentosfinancieros.cs" />
+    <Compile Include="Documento.cs" />
+    <Compile Include="ecommerce.cs" />
+    <Compile Include="ejercicio.cs" />
+    <Compile Include="empleados.cs" />
+    <Compile Include="empresa.cs" />
+    <Compile Include="empresa_has_usuarios.cs" />
+    <Compile Include="escala.cs" />
+    <Compile Include="Feriados.cs" />
+    <Compile Include="Horarios.cs" />
+    <Compile Include="idsolution.cs" />
+    <Compile Include="indice.cs" />
+    <Compile Include="jerarquia.cs" />
+    <Compile Include="LineaCobro.cs" />
+    <Compile Include="LineaCompras.cs" />
+    <Compile Include="lineadescuento.cs" />
+    <Compile Include="lineaVenta.cs" />
+    <Compile Include="Liquidacion.cs" />
+    <Compile Include="lugarespago.cs" />
+    <Compile Include="moneda.cs" />
+    <Compile Include="movimiento.cs" />
+    <Compile Include="ObrasSociales.cs" />
+    <Compile Include="planCuentas.cs" />
+    <Compile Include="plazo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="proveedor.cs" />
+    <Compile Include="proveedoresdatosimposit.cs" />
+    <Compile Include="proveedoresotrosdatos.cs" />
+    <Compile Include="provincia.cs" />
+    <Compile Include="puestotrabajo.cs" />
+    <Compile Include="puntoregistracion.cs" />
+    <Compile Include="puntoventa.cs" />
+    <Compile Include="regimenesEspeciales.cs" />
+    <Compile Include="RegimenSiap.cs" />
+    <Compile Include="situacionfinanciera.cs" />
+    <Compile Include="situacioniva.cs" />
+    <Compile Include="sucursal.cs" />
+    <Compile Include="sucursalbanco.cs" />
+    <Compile Include="Sueldos.cs" />
+    <Compile Include="tabla.cs" />
+    <Compile Include="talonario.cs" />
+    <Compile Include="tasaiva.cs" />
+    <Compile Include="tipoasiento.cs" />
+    <Compile Include="tipocheque.cs" />
+    <Compile Include="TipoCliente.cs" />
+    <Compile Include="tipocomprobante.cs" />
+    <Compile Include="tipoconcepto.cs" />
+    <Compile Include="tipocondicionventa.cs" />
+    <Compile Include="tipocuenta.cs" />
+    <Compile Include="tipolista.cs" />
+    <Compile Include="tipomovimiento.cs" />
+    <Compile Include="tipoOperacion.cs" />
+    <Compile Include="tipoOperacionComprobante.cs" />
+    <Compile Include="tipoproveedor.cs" />
+    <Compile Include="tiporegimen.cs" />
+    <Compile Include="tiposcomprobante.cs" />
+    <Compile Include="TiposObrasSociales.cs" />
+    <Compile Include="tiposocial.cs" />
+    <Compile Include="unidad.cs" />
+    <Compile Include="usuarios.cs" />
+    <Compile Include="usuarios_has_sucursal.cs" />
+    <Compile Include="usuarios_has_tabla.cs" />
+    <Compile Include="valorindice.cs" />
+    <Compile Include="venta.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PhantomDb\PhantomDb.csproj">
+      <Project>{11408D8C-57D1-4CDE-BB95-0D6128BC4BE7}</Project>
+      <Name>PhantomDb</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

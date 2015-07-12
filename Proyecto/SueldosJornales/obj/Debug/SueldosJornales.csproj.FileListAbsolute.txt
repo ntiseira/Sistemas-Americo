@@ -1,0 +1,231 @@
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+D:\TRABAJO DE CAMPO\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+D:\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\itextsharp.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\itextsharp.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\SueldosJornales\bin\Debug\itextsharp.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\itextsharp.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\MySql.Data.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\SueldosJornales.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Datos.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Entidades.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\PhantomDb.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\MySql.Data.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Datos.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\Entidades.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\ModuloSoporte.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\bin\Debug\PhantomDb.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\SueldosJornales\obj\Debug\SueldosJornales.pdb

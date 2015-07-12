@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DSquerys" targetNamespace="http://tempuri.org/DSquerys.xsd" xmlns:mstns="http://tempuri.org/DSquerys.xsd" xmlns="http://tempuri.org/DSquerys.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Web.config" AppSettingsPropertyName="siscontConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="siscontConnectionString (Web.config)" ParameterPrefix="@" PropertyReference="AppConfig.System.Configuration.ConfigurationManager.0.ConnectionStrings.siscontConnectionString.ConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="UsuariosDeCadaSucursal2TableAdapter" GeneratorDataComponentClassName="UsuariosDeCadaSucursal2TableAdapter" Name="UsuariosDeCadaSucursal2" UserDataComponentName="UsuariosDeCadaSucursal2TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="siscontConnectionString (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT  usuarios_has_sucursal.usuarios_usuario, sucursal.descripcion, sucursal.codigoSucursal, sucursal.direccion, usuarios_has_sucursal.permisos
+FROM            sucursal INNER JOIN
+                         empresa_has_usuarios ON sucursal.empresa_idempresa = empresa_has_usuarios.empresa_idempresa INNER JOIN
+                         usuarios_has_sucursal ON empresa_has_usuarios.usuarios_usuario = usuarios_has_sucursal.usuarios_usuario, usuarios, empresa</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="usuarios_usuario" DataSetColumn="usuarios_usuario" />
+              <Mapping SourceColumn="descripcion" DataSetColumn="descripcion" />
+              <Mapping SourceColumn="codigoSucursal" DataSetColumn="codigoSucursal" />
+              <Mapping SourceColumn="direccion" DataSetColumn="direccion" />
+              <Mapping SourceColumn="permisos" DataSetColumn="permisos" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="UsuariosDeCadaSucursalTableAdapter" GeneratorDataComponentClassName="UsuariosDeCadaSucursalTableAdapter" Name="UsuariosDeCadaSucursal" UserDataComponentName="UsuariosDeCadaSucursalTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="siscontConnectionString (Web.config)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        empresa.idempresa, empresa_has_usuarios.usuarios_usuario, sucursal.codigoSucursal, sucursal.descripcion, sucursal.direccion, 
+                         empresa_has_usuarios.permisos
+FROM            empresa_has_usuarios INNER JOIN
+                         empresa ON empresa_has_usuarios.empresa_idempresa = empresa.idempresa INNER JOIN
+                         sucursal ON empresa.idempresa = sucursal.empresa_idempresa</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="idempresa" DataSetColumn="idempresa" />
+              <Mapping SourceColumn="usuarios_usuario" DataSetColumn="usuarios_usuario" />
+              <Mapping SourceColumn="codigoSucursal" DataSetColumn="codigoSucursal" />
+              <Mapping SourceColumn="descripcion" DataSetColumn="descripcion" />
+              <Mapping SourceColumn="direccion" DataSetColumn="direccion" />
+              <Mapping SourceColumn="permisos" DataSetColumn="permisos" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DSquerys" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DSquerys" msprop:Generator_DataSetName="DSquerys" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="UsuariosDeCadaSucursal2" msprop:Generator_UserTableName="UsuariosDeCadaSucursal2" msprop:Generator_RowDeletedName="UsuariosDeCadaSucursal2RowDeleted" msprop:Generator_RowChangedName="UsuariosDeCadaSucursal2RowChanged" msprop:Generator_RowClassName="UsuariosDeCadaSucursal2Row" msprop:Generator_RowChangingName="UsuariosDeCadaSucursal2RowChanging" msprop:Generator_RowEvArgName="UsuariosDeCadaSucursal2RowChangeEvent" msprop:Generator_RowEvHandlerName="UsuariosDeCadaSucursal2RowChangeEventHandler" msprop:Generator_TableClassName="UsuariosDeCadaSucursal2DataTable" msprop:Generator_TableVarName="tableUsuariosDeCadaSucursal2" msprop:Generator_RowDeletingName="UsuariosDeCadaSucursal2RowDeleting" msprop:Generator_TablePropName="UsuariosDeCadaSucursal2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="usuarios_usuario" msprop:Generator_UserColumnName="usuarios_usuario" msprop:Generator_ColumnPropNameInRow="usuarios_usuario" msprop:Generator_ColumnVarNameInTable="columnusuarios_usuario" msprop:Generator_ColumnPropNameInTable="usuarios_usuarioColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="descripcion" msprop:Generator_UserColumnName="descripcion" msprop:Generator_ColumnPropNameInRow="descripcion" msprop:Generator_ColumnVarNameInTable="columndescripcion" msprop:Generator_ColumnPropNameInTable="descripcionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codigoSucursal" msprop:Generator_UserColumnName="codigoSucursal" msprop:Generator_ColumnPropNameInRow="codigoSucursal" msprop:Generator_ColumnVarNameInTable="columncodigoSucursal" msprop:Generator_ColumnPropNameInTable="codigoSucursalColumn" type="xs:int" />
+              <xs:element name="direccion" msprop:Generator_UserColumnName="direccion" msprop:Generator_ColumnPropNameInRow="direccion" msprop:Generator_ColumnVarNameInTable="columndireccion" msprop:Generator_ColumnPropNameInTable="direccionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="permisos" msprop:Generator_UserColumnName="permisos" msprop:Generator_ColumnPropNameInRow="permisos" msprop:Generator_ColumnVarNameInTable="columnpermisos" msprop:Generator_ColumnPropNameInTable="permisosColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="UsuariosDeCadaSucursal" msprop:Generator_UserTableName="UsuariosDeCadaSucursal" msprop:Generator_RowDeletedName="UsuariosDeCadaSucursalRowDeleted" msprop:Generator_TableClassName="UsuariosDeCadaSucursalDataTable" msprop:Generator_RowChangedName="UsuariosDeCadaSucursalRowChanged" msprop:Generator_RowClassName="UsuariosDeCadaSucursalRow" msprop:Generator_RowChangingName="UsuariosDeCadaSucursalRowChanging" msprop:Generator_RowEvArgName="UsuariosDeCadaSucursalRowChangeEvent" msprop:Generator_RowEvHandlerName="UsuariosDeCadaSucursalRowChangeEventHandler" msprop:Generator_TablePropName="UsuariosDeCadaSucursal" msprop:Generator_TableVarName="tableUsuariosDeCadaSucursal" msprop:Generator_RowDeletingName="UsuariosDeCadaSucursalRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="idempresa" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_UserColumnName="idempresa" msprop:Generator_ColumnPropNameInRow="idempresa" msprop:Generator_ColumnVarNameInTable="columnidempresa" msprop:Generator_ColumnPropNameInTable="idempresaColumn" type="xs:long" />
+              <xs:element name="usuarios_usuario" msprop:Generator_UserColumnName="usuarios_usuario" msprop:Generator_ColumnPropNameInRow="usuarios_usuario" msprop:Generator_ColumnVarNameInTable="columnusuarios_usuario" msprop:Generator_ColumnPropNameInTable="usuarios_usuarioColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="codigoSucursal" msprop:Generator_UserColumnName="codigoSucursal" msprop:Generator_ColumnPropNameInRow="codigoSucursal" msprop:Generator_ColumnVarNameInTable="columncodigoSucursal" msprop:Generator_ColumnPropNameInTable="codigoSucursalColumn" type="xs:int" />
+              <xs:element name="descripcion" msprop:Generator_UserColumnName="descripcion" msprop:Generator_ColumnPropNameInRow="descripcion" msprop:Generator_ColumnVarNameInTable="columndescripcion" msprop:Generator_ColumnPropNameInTable="descripcionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="direccion" msprop:Generator_UserColumnName="direccion" msprop:Generator_ColumnPropNameInRow="direccion" msprop:Generator_ColumnVarNameInTable="columndireccion" msprop:Generator_ColumnPropNameInTable="direccionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="permisos" msprop:Generator_UserColumnName="permisos" msprop:Generator_ColumnPropNameInRow="permisos" msprop:Generator_ColumnVarNameInTable="columnpermisos" msprop:Generator_ColumnPropNameInTable="permisosColumn" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:UsuariosDeCadaSucursal2" />
+      <xs:field xpath="mstns:usuarios_usuario" />
+      <xs:field xpath="mstns:codigoSucursal" />
+    </xs:unique>
+    <xs:unique name="UsuariosDeCadaSucursal_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:UsuariosDeCadaSucursal" />
+      <xs:field xpath="mstns:idempresa" />
+      <xs:field xpath="mstns:usuarios_usuario" />
+      <xs:field xpath="mstns:codigoSucursal" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,105 @@
+C:\Users\nico\Desktop\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\nico\Desktop\Proyecto\Entidades\obj\Debug\Entidades.pdb
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+D:\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+D:\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+D:\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+D:\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+D:\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Entidades\bin\Debug\PhantomDb.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Entidades\bin\Debug\PhantomDb.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Entidades\obj\Debug\Entidades.pdb

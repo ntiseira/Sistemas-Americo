@@ -1,0 +1,16 @@
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\WebHelper.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\WebHelper.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\Ext.Net.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\Ext.Net.UX.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\MySql.Data.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Release\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\obj\Release\WebHelper.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\obj\Release\WebHelper.pdb

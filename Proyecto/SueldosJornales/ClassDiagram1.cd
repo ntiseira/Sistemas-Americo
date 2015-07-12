@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SueldosJornales.AdministradorSueldosJornales">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAABAAAIAAAACAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>AdministradorSueldosJornales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Categoria">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.ConceptoLiquidar">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAQAAAAEAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConceptoLiquidar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.EmpresaServicio">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmpresaServicio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.ImpuestoGanancia">
+    <Position X="12.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAABAAEAAAAAAAAAAAAAAAQQAAAAIAAAAAAAAAAAAEA=</HashCode>
+      <FileName>ImpuestoGanancia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Liquidacion">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Liquidacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.LugaresPago">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAwAAAAAAAEIAAAAUQACAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>LugaresPago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.ObraSocial">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAGAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObraSocial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Recibo">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Recibo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Sueldo">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAAAAAgAAAAIAAAAAACAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Sueldo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.TipoConcepto">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAEAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoConcepto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Zona">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Clases.Clase">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Clase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Clases.Jornal">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Jornal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Clases.Mensual">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Mensual.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Escolaridades__Estados_civiles__Motivos_de_Egreso_y_Parentescos.Egreso">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAEBAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Escolaridades, Estados civiles, Motivos de Egreso y Parentescos\Egreso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SueldosJornales.Escolaridades__Estados_civiles__Motivos_de_Egreso_y_Parentescos.EstadoCivil">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Escolaridades, Estados civiles, Motivos de Egreso y Parentescos\EstadoCivil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

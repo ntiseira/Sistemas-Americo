@@ -1,0 +1,1240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{289B967F-A7FA-4E1F-B474-C88BD35A9EBA}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IU</RootNamespace>
+    <AssemblyName>IU</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.CrystalReports.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.TemplateEngine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.CrystalReports.TemplateEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.Data.AdoDotNetInterop.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Viewing.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.Enterprise.Viewing.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.ClientDoc.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommLayer, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.CommLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonControls, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.CommonControls.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CommonObjectModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.CommonObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Controllers, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.Controllers.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.CubeDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.CubeDefModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.DataDefModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.DataSetConversion, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.DataSetConversion.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ObjectFactory, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.ObjectFactory.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.Prompting, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.Prompting.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.ReportDefModel, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.ReportDefModel.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportAppServer.XmlSerialize, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportAppServer.XmlSerialize.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.VSDesigner, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.VSDesigner.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\DDLS\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Ext.Net, Version=1.2.0.21945, Culture=neutral, PublicKeyToken=2e12ce3d0176cd87, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ext.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Ext.Net.Utilities, Version=1.1.0.21941, Culture=neutral, PublicKeyToken=2c34ac34702a3c23, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ext.Net.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Ext.Net.UX, Version=1.0.0.39921, Culture=neutral, PublicKeyToken=6bdcf653bea99529, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ext.Net.UX.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.4.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MySql.Data.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Extensions.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WebChart, Version=1.1.1.4, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\WebChart.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AdministradorGral\Empresas\GestionarSucursales.aspx" />
+    <Content Include="AdministradorGral\Seguridad\Permisos.aspx" />
+    <Content Include="AdministradorGral\Seguridad\Sucursales.aspx" />
+    <Content Include="AdministradorGral\Seguridad\Tablas.aspx" />
+    <Content Include="AdministradorGral\Seguridad\Usuarios.aspx" />
+    <Content Include="AdministradorGral\Tablas\BancosYSucursales.aspx" />
+    <Content Include="AdministradorGral\Tablas\ConceptoNoGravadoEnIva.aspx" />
+    <Content Include="AdministradorGral\Tablas\ConsultarMonedas.aspx" />
+    <Content Include="AdministradorGral\Tablas\GestionarBancos.aspx" />
+    <Content Include="AdministradorGral\Tablas\GestionarCheques.aspx" />
+    <Content Include="AdministradorGral\Tablas\GestionarChequesTerceros.aspx" />
+    <Content Include="AdministradorGral\Tablas\GestionarIndices.aspx" />
+    <Content Include="AdministradorGral\Tablas\GestionarRegimenesEsp.aspx" />
+    <Content Include="AdministradorGral\Tablas\GestionarTasasIva.aspx" />
+    <Content Include="AdministradorGral\Tablas\GestionarUnidades.aspx" />
+    <Content Include="CajaBancos\CajaBancosPrincipal.aspx" />
+    <Content Include="ComprasCuentasPagar\ComprobantesCompra.aspx" />
+    <Content Include="ComprasCuentasPagar\CondicionesPago.aspx" />
+    <Content Include="ComprasCuentasPagar\Proveedores\DatosImpositivosProv.aspx" />
+    <Content Include="ComprasCuentasPagar\Proveedores\DatosProveedor.aspx" />
+    <Content Include="ComprasCuentasPagar\Proveedores\GestionarProveedores.aspx" />
+    <Content Include="ComprasCuentasPagar\Proveedores\GestionarTiposProveed.aspx" />
+    <Content Include="ComprasCuentasPagar\Proveedores\SeleccionarProveed.aspx" />
+    <Content Include="ComprasCuentasPagar\RegistrarCompra.aspx" />
+    <Content Include="Contabilidad\Asiento\Asiento.aspx" />
+    <Content Include="Contabilidad\Asiento\AsientoAgregado.aspx" />
+    <Content Include="Contabilidad\Asiento\GestionarAsientos.aspx" />
+    <Content Include="Contabilidad\Asiento\Movimientos.aspx" />
+    <Content Include="Contabilidad\CentrosCosto\Areas.aspx" />
+    <Content Include="Contabilidad\CentrosCosto\Departamentos.aspx" />
+    <Content Include="Contabilidad\CentrosCosto\Gestionar.aspx" />
+    <Content Include="Contabilidad\Cuentas\Gestionar.aspx" />
+    <Content Include="Contabilidad\Libros\LibroDiario.aspx" />
+    <Content Include="Contabilidad\Libros\PrepararLibroDiario.aspx" />
+    <Content Include="Contabilidad\PlanCuentas\ArbolPlan.aspx" />
+    <Content Include="Contabilidad\PlanCuentas\GestionarPlanes.aspx" />
+    <Content Include="Contabilidad\TipoAsiento\GestionarTiposDeAsientos.aspx" />
+    <Content Include="Contabilidad\TipoMovimiento\Gestionar.aspx" />
+    <Content Include="Generico\ComboClases.ascx" />
+    <Content Include="Generico\ControlAbm.ascx" />
+    <Content Include="Generico\ControlChildAbm.ascx" />
+    <Content Include="Generico\CotizacionDolar.ascx" />
+    <Content Include="Generico\Grafico.ascx" />
+    <Content Include="Generico\GraficoConFiltro.ascx" />
+    <Content Include="images\banner.jpg" />
+    <Content Include="images\wallpaperlogin.jpg" />
+    <Content Include="Impuestos\ImpuestosPrincipal.aspx" />
+    <Content Include="Inicio.aspx" />
+    <Content Include="js\security.js" />
+    <Content Include="js\util.js" />
+    <Content Include="LoginPaso2.aspx" />
+    <Content Include="Mensaje.aspx" />
+    <Content Include="PanelDeControl\EstadisticasAdm.aspx" />
+    <Content Include="PanelDeControl\Estadisticas\EstadisticasDeVentas\EstadisticasClientes.aspx" />
+    <Content Include="PanelDeControl\Estadisticas\EstadisticasDeCompras\EstadisticasCompras.aspx" />
+    <Content Include="PanelDeControl\Estadisticas\EstadisticasDeVentas\EstadisticasVentas.aspx" />
+    <Content Include="PanelDeControl\js\util.js" />
+    <Content Include="PanelDeControl\Reportes.aspx" />
+    <Content Include="Presentacion.aspx" />
+    <Content Include="Principal.aspx" />
+    <Content Include="OperacionesPrincipal.aspx" />
+    <Content Include="SueldosJornales\CategoriasSueldos.aspx" />
+    <Content Include="SueldosJornales\CertificadoDeTrabajo.aspx" />
+    <Content Include="SueldosJornales\Conceptos.aspx" />
+    <Content Include="SueldosJornales\DatosEmpleador.aspx" />
+    <Content Include="SueldosJornales\Feriados.aspx" />
+    <Content Include="SueldosJornales\Horarios.aspx" />
+    <Content Include="SueldosJornales\Liquidaciones.aspx" />
+    <Content Include="SueldosJornales\Liquidacion\BuscarEmpleado.aspx" />
+    <Content Include="SueldosJornales\LugaresDePago.aspx" />
+    <Content Include="SueldosJornales\ObrasSociales.aspx" />
+    <Content Include="SueldosJornales\ObrasSocialesEmpleados.aspx" />
+    <Content Include="SueldosJornales\Personal.aspx" />
+    <Content Include="SueldosJornales\Sueldos.aspx" />
+    <Content Include="SueldosJornales\TiposDeConceptos.aspx" />
+    <Content Include="VentasCuentasCobrar\CausaEmision.aspx" />
+    <Content Include="VentasCuentasCobrar\CausasEmision.aspx" />
+    <Content Include="VentasCuentasCobrar\Clientes\DatosClientes.aspx" />
+    <Content Include="VentasCuentasCobrar\Clientes\DatosImpositivosCliente.aspx" />
+    <Content Include="VentasCuentasCobrar\Clientes\GestionarClientes.aspx" />
+    <Content Include="VentasCuentasCobrar\Clientes\GestionarTiposClientes.aspx" />
+    <Content Include="VentasCuentasCobrar\Clientes\SeleccionarCliente.aspx" />
+    <Content Include="VentasCuentasCobrar\Comprobantes\GestionarAnulaciones.aspx" />
+    <Content Include="VentasCuentasCobrar\Comprobantes\IngresarComprobante.aspx" />
+    <Content Include="VentasCuentasCobrar\Comprobantes\MostrarFactura.aspx" />
+    <Content Include="VentasCuentasCobrar\Comprobantes\TiposComprobante.aspx" />
+    <Content Include="VentasCuentasCobrar\Comprobantes\VerComprobantesAnulados.aspx" />
+    <Content Include="VentasCuentasCobrar\ConceptoFact.aspx" />
+    <Content Include="VentasCuentasCobrar\ConceptoFacturacion.aspx" />
+    <Content Include="VentasCuentasCobrar\CondicionesVenta\GestionarCondicionesVenta.aspx" />
+    <Content Include="VentasCuentasCobrar\CondicionesVenta\GestionarTiposCondicionesVenta.aspx" />
+    <Content Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\CompensacionComprobante.aspx" />
+    <Content Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\DarResumenDeCuenta.aspx" />
+    <Content Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\GestionarCuenta.aspx" />
+    <Content Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\IngresoDeSaldos.aspx" />
+    <Content Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\PrepararClienteCompensacion.aspx" />
+    <Content Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\PrepararResumenDeCuenta.aspx" />
+    <Content Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\GestionarCuentaCorriente.aspx" />
+    <Content Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\RegistracionCobranza.aspx" />
+    <Content Include="VentasCuentasCobrar\Comprobantes\ListadosComprobantes.aspx" />
+    <Content Include="VentasCuentasCobrar\Descuentos\DescuentoComercial.aspx" />
+    <Content Include="VentasCuentasCobrar\Descuentos\DescuentosFinancieros.aspx" />
+    <Content Include="VentasCuentasCobrar\LibroIvaVentas\LibroIvaVentas.aspx" />
+    <Content Include="VentasCuentasCobrar\LibroIvaVentas\PrepararLibroIvaVentas.aspx" />
+    <Content Include="VentasCuentasCobrar\MovimientoFondos.aspx" />
+    <Content Include="VentasCuentasCobrar\TalonarioGenerico.aspx" />
+    <Content Include="VentasCuentasCobrar\Talonarios.aspx" />
+    <Content Include="VentasCuentasCobrar\TipoConceptos.aspx" />
+    <Content Include="VentasCuentasCobrar\TipoOperacion.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Default.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministradorGral\Empresas\GestionarSucursales.aspx.cs">
+      <DependentUpon>GestionarSucursales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Empresas\GestionarSucursales.aspx.designer.cs">
+      <DependentUpon>GestionarSucursales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Seguridad\Permisos.aspx.cs">
+      <DependentUpon>Permisos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Seguridad\Permisos.aspx.designer.cs">
+      <DependentUpon>Permisos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Seguridad\Sucursales.aspx.cs">
+      <DependentUpon>Sucursales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Seguridad\Sucursales.aspx.designer.cs">
+      <DependentUpon>Sucursales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Seguridad\Tablas.aspx.cs">
+      <DependentUpon>Tablas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Seguridad\Tablas.aspx.designer.cs">
+      <DependentUpon>Tablas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Seguridad\Usuarios.aspx.cs">
+      <DependentUpon>Usuarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Seguridad\Usuarios.aspx.designer.cs">
+      <DependentUpon>Usuarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\BancosYSucursales.aspx.cs">
+      <DependentUpon>BancosYSucursales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\BancosYSucursales.aspx.designer.cs">
+      <DependentUpon>BancosYSucursales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\ConceptoNoGravadoEnIva.aspx.cs">
+      <DependentUpon>ConceptoNoGravadoEnIva.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\ConceptoNoGravadoEnIva.aspx.designer.cs">
+      <DependentUpon>ConceptoNoGravadoEnIva.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\ConsultarMonedas.aspx.cs">
+      <DependentUpon>ConsultarMonedas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\ConsultarMonedas.aspx.designer.cs">
+      <DependentUpon>ConsultarMonedas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarBancos.aspx.cs">
+      <DependentUpon>GestionarBancos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarBancos.aspx.designer.cs">
+      <DependentUpon>GestionarBancos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarCheques.aspx.cs">
+      <DependentUpon>GestionarCheques.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarCheques.aspx.designer.cs">
+      <DependentUpon>GestionarCheques.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarChequesTerceros.aspx.cs">
+      <DependentUpon>GestionarChequesTerceros.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarChequesTerceros.aspx.designer.cs">
+      <DependentUpon>GestionarChequesTerceros.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarIndices.aspx.cs">
+      <DependentUpon>GestionarIndices.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarIndices.aspx.designer.cs">
+      <DependentUpon>GestionarIndices.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarRegimenesEsp.aspx.cs">
+      <DependentUpon>GestionarRegimenesEsp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarRegimenesEsp.aspx.designer.cs">
+      <DependentUpon>GestionarRegimenesEsp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarTasasIva.aspx.cs">
+      <DependentUpon>GestionarTasasIva.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarTasasIva.aspx.designer.cs">
+      <DependentUpon>GestionarTasasIva.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarUnidades.aspx.cs">
+      <DependentUpon>GestionarUnidades.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdministradorGral\Tablas\GestionarUnidades.aspx.designer.cs">
+      <DependentUpon>GestionarUnidades.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CajaBancos\CajaBancosPrincipal.aspx.cs">
+      <DependentUpon>CajaBancosPrincipal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CajaBancos\CajaBancosPrincipal.aspx.designer.cs">
+      <DependentUpon>CajaBancosPrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\ComprobantesCompra.aspx.cs">
+      <DependentUpon>ComprobantesCompra.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\ComprobantesCompra.aspx.designer.cs">
+      <DependentUpon>ComprobantesCompra.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\CondicionesPago.aspx.cs">
+      <DependentUpon>CondicionesPago.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\CondicionesPago.aspx.designer.cs">
+      <DependentUpon>CondicionesPago.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\DatosImpositivosProv.aspx.cs">
+      <DependentUpon>DatosImpositivosProv.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\DatosImpositivosProv.aspx.designer.cs">
+      <DependentUpon>DatosImpositivosProv.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\DatosProveedor.aspx.cs">
+      <DependentUpon>DatosProveedor.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\DatosProveedor.aspx.designer.cs">
+      <DependentUpon>DatosProveedor.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\GestionarProveedores.aspx.cs">
+      <DependentUpon>GestionarProveedores.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\GestionarProveedores.aspx.designer.cs">
+      <DependentUpon>GestionarProveedores.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\GestionarTiposProveed.aspx.cs">
+      <DependentUpon>GestionarTiposProveed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\GestionarTiposProveed.aspx.designer.cs">
+      <DependentUpon>GestionarTiposProveed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\SeleccionarProveed.aspx.cs">
+      <DependentUpon>SeleccionarProveed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\Proveedores\SeleccionarProveed.aspx.designer.cs">
+      <DependentUpon>SeleccionarProveed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\RegistrarCompra.aspx.cs">
+      <DependentUpon>RegistrarCompra.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComprasCuentasPagar\RegistrarCompra.aspx.designer.cs">
+      <DependentUpon>RegistrarCompra.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\Asiento\Asiento.aspx.cs">
+      <DependentUpon>Asiento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\Asiento\Asiento.aspx.designer.cs">
+      <DependentUpon>Asiento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\Asiento\AsientoAgregado.aspx.cs">
+      <DependentUpon>AsientoAgregado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\Asiento\AsientoAgregado.aspx.designer.cs">
+      <DependentUpon>AsientoAgregado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\Asiento\GestionarAsientos.aspx.cs">
+      <DependentUpon>GestionarAsientos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\Asiento\GestionarAsientos.aspx.designer.cs">
+      <DependentUpon>GestionarAsientos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\Asiento\Movimientos.aspx.cs">
+      <DependentUpon>Movimientos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\Asiento\Movimientos.aspx.designer.cs">
+      <DependentUpon>Movimientos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\CentrosCosto\Areas.aspx.cs">
+      <DependentUpon>Areas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\CentrosCosto\Areas.aspx.designer.cs">
+      <DependentUpon>Areas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\CentrosCosto\Departamentos.aspx.cs">
+      <DependentUpon>Departamentos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\CentrosCosto\Departamentos.aspx.designer.cs">
+      <DependentUpon>Departamentos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\CentrosCosto\Gestionar.aspx.cs">
+      <DependentUpon>Gestionar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\CentrosCosto\Gestionar.aspx.designer.cs">
+      <DependentUpon>Gestionar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\ContabilidadGlobal.cs" />
+    <Compile Include="Contabilidad\Cuentas\Gestionar.aspx.cs">
+      <DependentUpon>Gestionar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\Cuentas\Gestionar.aspx.designer.cs">
+      <DependentUpon>Gestionar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\IControlView.cs" />
+    <Compile Include="Contabilidad\Libros\LibroDiario.aspx.cs">
+      <DependentUpon>LibroDiario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\Libros\LibroDiario.aspx.designer.cs">
+      <DependentUpon>LibroDiario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\Libros\PrepararLibroDiario.aspx.cs">
+      <DependentUpon>PrepararLibroDiario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\Libros\PrepararLibroDiario.aspx.designer.cs">
+      <DependentUpon>PrepararLibroDiario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\PlanCuentas\ArbolPlan.aspx.cs">
+      <DependentUpon>ArbolPlan.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\PlanCuentas\ArbolPlan.aspx.designer.cs">
+      <DependentUpon>ArbolPlan.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\PlanCuentas\GestionarPlanes.aspx.cs">
+      <DependentUpon>GestionarPlanes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\PlanCuentas\GestionarPlanes.aspx.designer.cs">
+      <DependentUpon>GestionarPlanes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\TipoAsiento\GestionarTiposDeAsientos.aspx.cs">
+      <DependentUpon>GestionarTiposDeAsientos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\TipoAsiento\GestionarTiposDeAsientos.aspx.designer.cs">
+      <DependentUpon>GestionarTiposDeAsientos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contabilidad\TipoMovimiento\Gestionar.aspx.cs">
+      <DependentUpon>Gestionar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contabilidad\TipoMovimiento\Gestionar.aspx.designer.cs">
+      <DependentUpon>Gestionar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Generico\ComboClases.ascx.cs">
+      <DependentUpon>ComboClases.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Generico\ComboClases.ascx.designer.cs">
+      <DependentUpon>ComboClases.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Generico\ControlAbm.ascx.cs">
+      <DependentUpon>ControlAbm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Generico\ControlAbm.ascx.designer.cs">
+      <DependentUpon>ControlAbm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Generico\ControlChildAbm.ascx.cs">
+      <DependentUpon>ControlChildAbm.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Generico\ControlChildAbm.ascx.designer.cs">
+      <DependentUpon>ControlChildAbm.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Generico\CotizacionDolar.ascx.cs">
+      <DependentUpon>CotizacionDolar.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Generico\CotizacionDolar.ascx.designer.cs">
+      <DependentUpon>CotizacionDolar.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Generico\Events\EventInsertAbm.cs" />
+    <Compile Include="Generico\Events\EventUpdateAbm.cs" />
+    <Compile Include="Generico\Grafico.ascx.cs">
+      <DependentUpon>Grafico.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Generico\Grafico.ascx.designer.cs">
+      <DependentUpon>Grafico.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Generico\GraficoConFiltro.ascx.cs">
+      <DependentUpon>GraficoConFiltro.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Generico\GraficoConFiltro.ascx.designer.cs">
+      <DependentUpon>GraficoConFiltro.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Impuestos\ImpuestosPrincipal.aspx.cs">
+      <DependentUpon>ImpuestosPrincipal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Impuestos\ImpuestosPrincipal.aspx.designer.cs">
+      <DependentUpon>ImpuestosPrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LoginPaso2.aspx.cs">
+      <DependentUpon>LoginPaso2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LoginPaso2.aspx.designer.cs">
+      <DependentUpon>LoginPaso2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mensaje.aspx.cs">
+      <DependentUpon>Mensaje.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mensaje.aspx.designer.cs">
+      <DependentUpon>Mensaje.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDeControl\AdministradorPanelControl.cs" />
+    <Compile Include="PanelDeControl\EstadisticasAdm.aspx.cs">
+      <DependentUpon>EstadisticasAdm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PanelDeControl\EstadisticasAdm.aspx.designer.cs">
+      <DependentUpon>EstadisticasAdm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDeControl\Estadisticas\EstadisticasDeVentas\EstadisticasClientes.aspx.cs">
+      <DependentUpon>EstadisticasClientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PanelDeControl\Estadisticas\EstadisticasDeVentas\EstadisticasClientes.aspx.designer.cs">
+      <DependentUpon>EstadisticasClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDeControl\Estadisticas\EstadisticasDeCompras\EstadisticasCompras.aspx.cs">
+      <DependentUpon>EstadisticasCompras.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PanelDeControl\Estadisticas\EstadisticasDeCompras\EstadisticasCompras.aspx.designer.cs">
+      <DependentUpon>EstadisticasCompras.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDeControl\Estadisticas\EstadisticasDeVentas\EstadisticasVentas.aspx.cs">
+      <DependentUpon>EstadisticasVentas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PanelDeControl\Estadisticas\EstadisticasDeVentas\EstadisticasVentas.aspx.designer.cs">
+      <DependentUpon>EstadisticasVentas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PanelDeControl\Reportes.aspx.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PanelDeControl\Reportes.aspx.designer.cs">
+      <DependentUpon>Reportes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion.aspx.cs">
+      <DependentUpon>Presentacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Presentacion.aspx.designer.cs">
+      <DependentUpon>Presentacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.aspx.cs">
+      <DependentUpon>Principal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Principal.aspx.designer.cs">
+      <DependentUpon>Principal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OperacionesPrincipal.aspx.cs">
+      <DependentUpon>OperacionesPrincipal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OperacionesPrincipal.aspx.designer.cs">
+      <DependentUpon>OperacionesPrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SueldosJornales\CategoriasSueldos.aspx.cs">
+      <DependentUpon>CategoriasSueldos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\CategoriasSueldos.aspx.designer.cs">
+      <DependentUpon>CategoriasSueldos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\CertificadoDeTrabajo.aspx.cs">
+      <DependentUpon>CertificadoDeTrabajo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\CertificadoDeTrabajo.aspx.designer.cs">
+      <DependentUpon>CertificadoDeTrabajo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\Conceptos.aspx.cs">
+      <DependentUpon>Conceptos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\Conceptos.aspx.designer.cs">
+      <DependentUpon>Conceptos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\DatosEmpleador.aspx.cs">
+      <DependentUpon>DatosEmpleador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\DatosEmpleador.aspx.designer.cs">
+      <DependentUpon>DatosEmpleador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\Feriados.aspx.cs">
+      <DependentUpon>Feriados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\Feriados.aspx.designer.cs">
+      <DependentUpon>Feriados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\Horarios.aspx.cs">
+      <DependentUpon>Horarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\Horarios.aspx.designer.cs">
+      <DependentUpon>Horarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\Liquidaciones.aspx.cs">
+      <DependentUpon>Liquidaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\Liquidaciones.aspx.designer.cs">
+      <DependentUpon>Liquidaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\Liquidacion\BuscarEmpleado.aspx.cs">
+      <DependentUpon>BuscarEmpleado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\Liquidacion\BuscarEmpleado.aspx.designer.cs">
+      <DependentUpon>BuscarEmpleado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\LugaresDePago.aspx.cs">
+      <DependentUpon>LugaresDePago.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\LugaresDePago.aspx.designer.cs">
+      <DependentUpon>LugaresDePago.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\ObrasSociales.aspx.cs">
+      <DependentUpon>ObrasSociales.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\ObrasSociales.aspx.designer.cs">
+      <DependentUpon>ObrasSociales.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\ObrasSocialesEmpleados.aspx.cs">
+      <DependentUpon>ObrasSocialesEmpleados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\ObrasSocialesEmpleados.aspx.designer.cs">
+      <DependentUpon>ObrasSocialesEmpleados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\Personal.aspx.cs">
+      <DependentUpon>Personal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\Personal.aspx.designer.cs">
+      <DependentUpon>Personal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\Sueldos.aspx.cs">
+      <DependentUpon>Sueldos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\Sueldos.aspx.designer.cs">
+      <DependentUpon>Sueldos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SueldosJornales\TiposDeConceptos.aspx.cs">
+      <DependentUpon>TiposDeConceptos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SueldosJornales\TiposDeConceptos.aspx.designer.cs">
+      <DependentUpon>TiposDeConceptos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UIHelper.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CausaEmision.aspx.cs">
+      <DependentUpon>CausaEmision.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CausaEmision.aspx.designer.cs">
+      <DependentUpon>CausaEmision.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CausasEmision.aspx.cs">
+      <DependentUpon>CausasEmision.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CausasEmision.aspx.designer.cs">
+      <DependentUpon>CausasEmision.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\DatosClientes.aspx.cs">
+      <DependentUpon>DatosClientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\DatosClientes.aspx.designer.cs">
+      <DependentUpon>DatosClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\DatosImpositivosCliente.aspx.cs">
+      <DependentUpon>DatosImpositivosCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\DatosImpositivosCliente.aspx.designer.cs">
+      <DependentUpon>DatosImpositivosCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\GestionarClientes.aspx.cs">
+      <DependentUpon>GestionarClientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\GestionarClientes.aspx.designer.cs">
+      <DependentUpon>GestionarClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\GestionarTiposClientes.aspx.cs">
+      <DependentUpon>GestionarTiposClientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\GestionarTiposClientes.aspx.designer.cs">
+      <DependentUpon>GestionarTiposClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\SeleccionarCliente.aspx.cs">
+      <DependentUpon>SeleccionarCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Clientes\SeleccionarCliente.aspx.designer.cs">
+      <DependentUpon>SeleccionarCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\GestionarAnulaciones.aspx.cs">
+      <DependentUpon>GestionarAnulaciones.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\GestionarAnulaciones.aspx.designer.cs">
+      <DependentUpon>GestionarAnulaciones.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\IngresarComprobante.aspx.cs">
+      <DependentUpon>IngresarComprobante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\IngresarComprobante.aspx.designer.cs">
+      <DependentUpon>IngresarComprobante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\MostrarFactura.aspx.cs">
+      <DependentUpon>MostrarFactura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\MostrarFactura.aspx.designer.cs">
+      <DependentUpon>MostrarFactura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\TiposComprobante.aspx.cs">
+      <DependentUpon>TiposComprobante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\TiposComprobante.aspx.designer.cs">
+      <DependentUpon>TiposComprobante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\VerComprobantesAnulados.aspx.cs">
+      <DependentUpon>VerComprobantesAnulados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\VerComprobantesAnulados.aspx.designer.cs">
+      <DependentUpon>VerComprobantesAnulados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\ConceptoFact.aspx.cs">
+      <DependentUpon>ConceptoFact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\ConceptoFact.aspx.designer.cs">
+      <DependentUpon>ConceptoFact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\ConceptoFacturacion.aspx.cs">
+      <DependentUpon>ConceptoFacturacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\ConceptoFacturacion.aspx.designer.cs">
+      <DependentUpon>ConceptoFacturacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CondicionesVenta\GestionarCondicionesVenta.aspx.cs">
+      <DependentUpon>GestionarCondicionesVenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CondicionesVenta\GestionarCondicionesVenta.aspx.designer.cs">
+      <DependentUpon>GestionarCondicionesVenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CondicionesVenta\GestionarTiposCondicionesVenta.aspx.cs">
+      <DependentUpon>GestionarTiposCondicionesVenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CondicionesVenta\GestionarTiposCondicionesVenta.aspx.designer.cs">
+      <DependentUpon>GestionarTiposCondicionesVenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\CompensacionComprobante.aspx.cs">
+      <DependentUpon>CompensacionComprobante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\CompensacionComprobante.aspx.designer.cs">
+      <DependentUpon>CompensacionComprobante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\DarResumenDeCuenta.aspx.cs">
+      <DependentUpon>DarResumenDeCuenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\DarResumenDeCuenta.aspx.designer.cs">
+      <DependentUpon>DarResumenDeCuenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\GestionarCuenta.aspx.cs">
+      <DependentUpon>GestionarCuenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\GestionarCuenta.aspx.designer.cs">
+      <DependentUpon>GestionarCuenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\IngresoDeSaldos.aspx.cs">
+      <DependentUpon>IngresoDeSaldos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\IngresoDeSaldos.aspx.designer.cs">
+      <DependentUpon>IngresoDeSaldos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\PrepararClienteCompensacion.aspx.cs">
+      <DependentUpon>PrepararClienteCompensacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\PrepararClienteCompensacion.aspx.designer.cs">
+      <DependentUpon>PrepararClienteCompensacion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\PrepararResumenDeCuenta.aspx.cs">
+      <DependentUpon>PrepararResumenDeCuenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\PrepararResumenDeCuenta.aspx.designer.cs">
+      <DependentUpon>PrepararResumenDeCuenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\GestionarCuentaCorriente.aspx.cs">
+      <DependentUpon>GestionarCuentaCorriente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\GestionarCuentaCorriente.aspx.designer.cs">
+      <DependentUpon>GestionarCuentaCorriente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\RegistracionCobranza.aspx.cs">
+      <DependentUpon>RegistracionCobranza.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\CuentaCorrienteyCobranzas\RegistracionCobranza.aspx.designer.cs">
+      <DependentUpon>RegistracionCobranza.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\ListadosComprobantes.aspx.cs">
+      <DependentUpon>ListadosComprobantes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Comprobantes\ListadosComprobantes.aspx.designer.cs">
+      <DependentUpon>ListadosComprobantes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Reportes\DataSetFactura.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetFactura.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Descuentos\DescuentoComercial.aspx.cs">
+      <DependentUpon>DescuentoComercial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Descuentos\DescuentoComercial.aspx.designer.cs">
+      <DependentUpon>DescuentoComercial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Descuentos\DescuentosFinancieros.aspx.cs">
+      <DependentUpon>DescuentosFinancieros.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Descuentos\DescuentosFinancieros.aspx.designer.cs">
+      <DependentUpon>DescuentosFinancieros.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\LibroIvaVentas\LibroIvaVentas.aspx.cs">
+      <DependentUpon>LibroIvaVentas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\LibroIvaVentas\LibroIvaVentas.aspx.designer.cs">
+      <DependentUpon>LibroIvaVentas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\LibroIvaVentas\PrepararLibroIvaVentas.aspx.cs">
+      <DependentUpon>PrepararLibroIvaVentas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\LibroIvaVentas\PrepararLibroIvaVentas.aspx.designer.cs">
+      <DependentUpon>PrepararLibroIvaVentas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\MovimientoFondos.aspx.cs">
+      <DependentUpon>MovimientoFondos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\MovimientoFondos.aspx.designer.cs">
+      <DependentUpon>MovimientoFondos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Reportes\DataSetLibroIvaVentas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLibroIvaVentas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Reportes\DataSetLineaDeVenta.cs">
+      <DependentUpon>DataSetLineaDeVenta.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Reportes\DataSetLineaDeVenta.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetLineaDeVenta.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Reportes\DataSetResumenCuenta.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetResumenCuenta.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Reportes\Factura.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Factura.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Reportes\LibroIvaVentas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LibroIvaVentas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Reportes\Resumen.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resumen.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\TalonarioGenerico.aspx.cs">
+      <DependentUpon>TalonarioGenerico.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\TalonarioGenerico.aspx.designer.cs">
+      <DependentUpon>TalonarioGenerico.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Talonarios.aspx.cs">
+      <DependentUpon>Talonarios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\Talonarios.aspx.designer.cs">
+      <DependentUpon>Talonarios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\TipoConceptos.aspx.cs">
+      <DependentUpon>TipoConceptos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\TipoConceptos.aspx.designer.cs">
+      <DependentUpon>TipoConceptos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\TipoOperacion.aspx.cs">
+      <DependentUpon>TipoOperacion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VentasCuentasCobrar\TipoOperacion.aspx.designer.cs">
+      <DependentUpon>TipoOperacion.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AdministradorGeneral\AdministradorGeneral.csproj">
+      <Project>{A6874CE5-E3D7-42E6-9FB2-F07160B81C1B}</Project>
+      <Name>AdministradorGeneral</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ComprasCuentasPagar\ComprasCuentasPagar.csproj">
+      <Project>{7C2C0431-C635-4638-8CBD-27E73A4041F4}</Project>
+      <Name>ComprasCuentasPagar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Contabilidad\Contabilidad.csproj">
+      <Project>{3E8CFFA0-7357-46DC-B32C-248DED3BE075}</Project>
+      <Name>Contabilidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos\CapaDatos.csproj">
+      <Project>{AF3B0F03-A6D7-4235-9B77-816F80633E65}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{DBCC57D3-E9E0-4311-BD14-6BEAD763F954}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModuloSoporte\ModuloSoporte.csproj">
+      <Project>{FDA1F2E4-5720-4D92-80B2-CF2A57323301}</Project>
+      <Name>ModuloSoporte</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PhantomDb\PhantomDb.csproj">
+      <Project>{11408D8C-57D1-4CDE-BB95-0D6128BC4BE7}</Project>
+      <Name>PhantomDb</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SueldosJornales\SueldosJornales.csproj">
+      <Project>{2BF05168-4FF6-451E-B202-72E037E16B1F}</Project>
+      <Name>SueldosJornales</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Traductor\Traductor.csproj">
+      <Project>{52E4BDB5-9500-4062-B458-0322670F343C}</Project>
+      <Name>Traductor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VentasCuentasCobrar\VentasCuentasCobrar.csproj">
+      <Project>{D376737B-00A9-437B-A5BB-10905CBCEC5C}</Project>
+      <Name>VentasCuentasCobrar</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebHelper\WebHelper.csproj">
+      <Project>{CA2BA78B-2803-4CB1-97BF-D406B6F3306F}</Project>
+      <Name>WebHelper</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="PanelDeControl\Estadisticas\EstadisticasDeAdministracion\" />
+    <Folder Include="PanelDeControl\Estadisticas\EstadisticasDeSueldos\" />
+    <Folder Include="PanelDeControl\GenReportes\Compras\" />
+    <Folder Include="PanelDeControl\GenReportes\Contabilidad\" />
+    <Folder Include="PanelDeControl\GenReportes\DATASET\" />
+    <Folder Include="PanelDeControl\GenReportes\General\" />
+    <Folder Include="PanelDeControl\GenReportes\Sueldos\" />
+    <Folder Include="PanelDeControl\GenReportes\Ventas\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="VentasCuentasCobrar\Reportes\Factura.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Factura.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentasCuentasCobrar\Reportes\LibroIvaVentas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LibroIvaVentas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentasCuentasCobrar\Reportes\Resumen.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Resumen.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetFactura.xsc">
+      <DependentUpon>DataSetFactura.xsd</DependentUpon>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetFactura.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetFactura.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetFactura.xss">
+      <DependentUpon>DataSetFactura.xsd</DependentUpon>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetLibroIvaVentas.xsc">
+      <DependentUpon>DataSetLibroIvaVentas.xsd</DependentUpon>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetLibroIvaVentas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetLibroIvaVentas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetLibroIvaVentas.xss">
+      <DependentUpon>DataSetLibroIvaVentas.xsd</DependentUpon>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetLineaDeVenta.xsc">
+      <DependentUpon>DataSetLineaDeVenta.xsd</DependentUpon>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetLineaDeVenta.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetLineaDeVenta.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetLineaDeVenta.xss">
+      <DependentUpon>DataSetLineaDeVenta.xsd</DependentUpon>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetResumenCuenta.xsc">
+      <DependentUpon>DataSetResumenCuenta.xsd</DependentUpon>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetResumenCuenta.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetResumenCuenta.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\DataSetResumenCuenta.xss">
+      <DependentUpon>DataSetResumenCuenta.xsd</DependentUpon>
+    </None>
+    <None Include="VentasCuentasCobrar\Reportes\ReportesGenerados\ResumenCuentaCorriente.pdf" />
+    <None Include="VentasCuentasCobrar\Reportes\ReportesGenerados\LibroIvaVentas.pdf" />
+    <None Include="VentasCuentasCobrar\Reportes\ReportesGenerados\FacturaA.pdf" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>53151</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/PRUEBA</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

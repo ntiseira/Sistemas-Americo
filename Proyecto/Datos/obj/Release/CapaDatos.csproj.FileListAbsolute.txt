@@ -1,0 +1,10 @@
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\bin\Release\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\bin\Release\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\bin\Release\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\bin\Release\MySql.Data.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\bin\Release\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\bin\Release\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\bin\Release\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\obj\Release\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Datos\obj\Release\Datos.pdb

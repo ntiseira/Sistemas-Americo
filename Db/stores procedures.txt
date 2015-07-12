@@ -1,0 +1,94 @@
+Store procedures:
+
+
+resumen de cuenta:
+
+
+DELIMITER $$
+CREATE PROCEDURE obtenerResumenDeCuenta4(in nroCuenta int, in idBanco int, in codcliente int, in fechaDesde 
+
+Datetime, in fechaHasta Datetime)
+BEGIN
+
+select m.idmovimiento, CuentaCorriente_nroCuenta as NroCuenta, fecha as Fecha, importe as importe, m.total as saldo ,b.descripcion as 'banco', 
+
+c.razonSocial as 'Cliente'
+from movimiento m inner join banco b  ON  b.idbanco = m.CuentaCorriente_banco_idbanco  
+LEFT join cliente c on m.CuentaCorriente_cliente_codCliente = c.codCliente 
+where CuentaCorriente_nroCuenta=  nroCuenta and CuentaCorriente_banco_idbanco= idBanco and 
+
+CuentaCorriente_cliente_codCliente= codcliente
+and fecha >= fechaDesde and fecha <= fechaHasta
+
+group by m.idmovimiento, CuentaCorriente_nroCuenta , fecha , importe,m.total,b.descripcion , c.razonSocial;
+
+END$$
+DELIMITER ;
+
+
+
+
+
+
+Libro iva ventas:
+
+
+DELIMITER $$
+CREATE PROCEDURE obtenerLibroIvaVentas(in codcliente int, in fechaDesde Datetime, in fechaHasta Datetime)
+BEGIN
+
+select  m.fecha as Fecha, b.descrip as tipoComprobante, c.razonSocial as 'Cliente', m.numero as Numero, ci.situacioniva,
+mon.moneda, m.totalNeto as totalNeto, m.totalIva as iva, m.total as total
+from comprobantesventa m inner join tiposcomprobante b  ON  b.idtipocomprobante = m.talonario_tiposcomprobante_idtipocomprobante  
+
+inner join cliente c on m.cliente_codCliente = c.codCliente 
+inner join clientedatosimpositivos ci on c.codCliente =  ci.cliente_codCliente
+inner join moneda mon on m.moneda_idmoneda = mon.idmoneda
+where m.cliente_codCliente = 1 and m.fecha >= fechaDesde and m.fecha <= fechaHasta
+
+group by  m.numero, ci.situacioniva, mon.moneda, m.totalNeto , m.totalIva , m.total ;
+
+
+END$$
+DELIMITER ;
+
+
+
+
+
+
+FACTURA:
+
+
+
+DELIMITER $$
+CREATE PROCEDURE obtenerFactura(in factura int)
+BEGIN
+
+select  m.fecha as Fecha, c.razonSocial as 'Cliente',c.direccion as domicilio, ci.numdocumento as Cuit, c.localidad as localidad ,  m.numero as Numero, ci.situacioniva
+from comprobantesventa m inner join cliente c on m.cliente_codCliente = c.codCliente inner join clientedatosimpositivos ci on c.codCliente =  ci.cliente_codCliente
+where m.numero = factura;
+
+END$$
+DELIMITER ;
+
+
+LINEA DE VENTA:
+
+DELIMITER $$
+CREATE PROCEDURE obtenerLineaDeVenta(in factura int)
+BEGIN
+
+
+select  l.cantidad as cant, l.importe as precioUnitario, l.cantidad* l.importe as importe, c.descripcion as detalle
+FROM lineadeventa l inner join concepto c on l.concepto_codConcepto = c.codConcepto
+where l.comprobantesventa_numero = factura;
+
+END$$
+DELIMITER ;
+
+
+
+
+
+

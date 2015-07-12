@@ -1,0 +1,12 @@
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\bin\Release\ModuloSoporte.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\bin\Release\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\bin\Release\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\bin\Release\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\bin\Release\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\bin\Release\MySql.Data.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\bin\Release\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\bin\Release\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\bin\Release\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\obj\Release\ModuloSoporte.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\ModuloSoporte\obj\Release\ModuloSoporte.pdb

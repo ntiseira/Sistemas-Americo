@@ -1,0 +1,5 @@
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\bin\Release\Impuestos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\bin\Release\Impuestos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\obj\Release\Impuestos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\obj\Release\Impuestos.pdb

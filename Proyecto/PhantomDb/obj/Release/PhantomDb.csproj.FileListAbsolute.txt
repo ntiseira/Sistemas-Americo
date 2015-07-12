@@ -1,0 +1,5 @@
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\PhantomDb\bin\Release\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\PhantomDb\bin\Release\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\PhantomDb\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\PhantomDb\obj\Release\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\PhantomDb\obj\Release\PhantomDb.pdb

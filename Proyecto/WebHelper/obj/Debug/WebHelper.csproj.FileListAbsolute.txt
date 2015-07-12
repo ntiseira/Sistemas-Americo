@@ -1,0 +1,234 @@
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\nico\Desktop\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+D:\TRABAJO DE CAMPO\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+D:\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Ext.Net.UX.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Ext.Net.UX.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\MySql.Data.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\WebHelper\obj\Debug\WebHelper.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\WebHelper.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\WebHelper.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Datos.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Ext.Net.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Ext.Net.UX.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\PhantomDb.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Entidades.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\MySql.Data.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Ext.Net.Utilities.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Datos.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\PhantomDb.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\bin\Debug\Entidades.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\obj\Debug\WebHelper.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\obj\Debug\WebHelper.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\WebHelper\obj\Debug\WebHelper.pdb

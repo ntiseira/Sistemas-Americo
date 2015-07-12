@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2BF05168-4FF6-451E-B202-72E037E16B1F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SueldosJornales</RootNamespace>
+    <AssemblyName>SueldosJornales</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdministradorSueldosJornales.cs" />
+    <Compile Include="CategoriaSueldo.cs" />
+    <Compile Include="CertificadoTrabajo.cs" />
+    <Compile Include="Clases\Mensual.cs" />
+    <Compile Include="ConceptoLiquidar.cs" />
+    <Compile Include="Empleados\DatosFamiliares.cs" />
+    <Compile Include="Empleados\Empleado.cs" />
+    <Compile Include="Empleados\TipoEmpleado.cs" />
+    <Compile Include="Egreso.cs" />
+    <Compile Include="EmpresaServicio.cs" />
+    <Compile Include="Feriado.cs" />
+    <Compile Include="Horario.cs" />
+    <Compile Include="ImpuestoGanancia.cs" />
+    <Compile Include="Clases\Jornal.cs" />
+    <Compile Include="LugaresPago.cs" />
+    <Compile Include="ObraSocial.cs" />
+    <Compile Include="ObraSocialEmpleado.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recibo.cs" />
+    <Compile Include="SJLiquidacion.cs" />
+    <Compile Include="Sueldo.cs" />
+    <Compile Include="TipoConcepto.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\CapaDatos.csproj">
+      <Project>{AF3B0F03-A6D7-4235-9B77-816F80633E65}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{DBCC57D3-E9E0-4311-BD14-6BEAD763F954}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModuloSoporte\ModuloSoporte.csproj">
+      <Project>{FDA1F2E4-5720-4D92-80B2-CF2A57323301}</Project>
+      <Name>ModuloSoporte</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PhantomDb\PhantomDb.csproj">
+      <Project>{11408D8C-57D1-4CDE-BB95-0D6128BC4BE7}</Project>
+      <Name>PhantomDb</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

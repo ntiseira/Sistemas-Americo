@@ -1,0 +1,368 @@
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+D:\TRABAJO DE CAMPO\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+D:\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\itextsharp.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\itextsharp.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Nueva carpeta (2)\Nueva carpeta\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\VentasCuentasCobrar\bin\Debug\itextsharp.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\MySql.Data.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\itextsharp.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\MySql.Data.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\VentasCuentasCobrar.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\MySql.Data.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\AdministradorGeneral.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Contabilidad.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Datos.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Entidades.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Impuestos.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\ModuloSoporte.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\PhantomDb.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\bin\Debug\Traductor.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\VentasCuentasCobrar\obj\Debug\VentasCuentasCobrar.pdb

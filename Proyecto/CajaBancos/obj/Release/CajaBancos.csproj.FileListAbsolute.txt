@@ -1,0 +1,5 @@
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\CajaBancos\bin\Release\CajaBancos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\CajaBancos\bin\Release\CajaBancos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\CajaBancos\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\CajaBancos\obj\Release\CajaBancos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\CajaBancos\obj\Release\CajaBancos.pdb

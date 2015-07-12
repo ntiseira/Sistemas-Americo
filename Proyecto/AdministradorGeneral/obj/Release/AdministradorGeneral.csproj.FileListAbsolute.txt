@@ -1,0 +1,16 @@
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\AdministradorGeneral.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\Impuestos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\ModuloSoporte.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\MySql.Data.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\Impuestos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\bin\Release\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\obj\Release\AdministradorGeneral.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\AdministradorGeneral\obj\Release\AdministradorGeneral.pdb

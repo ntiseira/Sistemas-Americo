@@ -1,0 +1,69 @@
+C:\Users\nico\Desktop\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Impuestos\obj\Debug\Impuestos.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Impuestos\bin\Debug\Impuestos.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Impuestos\bin\Debug\Impuestos.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Impuestos\obj\Debug\Impuestos.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Impuestos\obj\Debug\Impuestos.pdb

@@ -1,0 +1,8 @@
+D:\ProyectoContable\trunk\Desarrollo\SisCont\SisCont\GeneradorReporte\obj\Debug\ResolveAssemblyReference.cache
+D:\ProyectoContable\trunk\Desarrollo\SisCont\SisCont\GeneradorReporte\bin\GeneradorReporte.dll
+D:\ProyectoContable\trunk\Desarrollo\SisCont\SisCont\GeneradorReporte\bin\GeneradorReporte.pdb
+D:\ProyectoContable\trunk\Desarrollo\SisCont\SisCont\GeneradorReporte\bin\Ext.Net.dll
+D:\ProyectoContable\trunk\Desarrollo\SisCont\SisCont\GeneradorReporte\bin\Ext.Net.Utilities.dll
+D:\ProyectoContable\trunk\Desarrollo\SisCont\SisCont\GeneradorReporte\bin\Newtonsoft.Json.dll
+D:\ProyectoContable\trunk\Desarrollo\SisCont\SisCont\GeneradorReporte\obj\Debug\GeneradorReporte.dll
+D:\ProyectoContable\trunk\Desarrollo\SisCont\SisCont\GeneradorReporte\obj\Debug\GeneradorReporte.pdb

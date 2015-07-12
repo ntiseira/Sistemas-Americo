@@ -1,0 +1,132 @@
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\IU.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\IU.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\AdministradorGeneral.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\ComprasCuentasPagar.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Contabilidad.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Datos.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Entidades.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Ext.Net.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Ext.Net.Utilities.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Ext.Net.UX.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\ModuloSoporte.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\MySql.Data.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\PhantomDb.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\SueldosJornales.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Traductor.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\VentasCuentasCobrar.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\WebChart.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\WebHelper.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Newtonsoft.Json.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\AdministradorGeneral.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\ComprasCuentasPagar.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Contabilidad.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Datos.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Entidades.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\ModuloSoporte.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\PhantomDb.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\SueldosJornales.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\Traductor.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\VentasCuentasCobrar.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\bin\WebHelper.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\obj\Debug\IU.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\IU\obj\Debug\IU.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\IU.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\IU.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\AdministradorGeneral.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ComprasCuentasPagar.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Contabilidad.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Datos.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Entidades.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Ext.Net.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Ext.Net.Utilities.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Ext.Net.UX.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ModuloSoporte.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\MySql.Data.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\PhantomDb.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\SueldosJornales.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Traductor.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\VentasCuentasCobrar.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\WebChart.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\WebHelper.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Newtonsoft.Json.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\AdministradorGeneral.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ComprasCuentasPagar.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Contabilidad.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Datos.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Entidades.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ModuloSoporte.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\PhantomDb.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\SueldosJornales.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Traductor.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\VentasCuentasCobrar.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\WebHelper.pdb
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\obj\Debug\ResolveAssemblyReference.cache
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\obj\Debug\IU.dll
+D:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\obj\Debug\IU.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\IU.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\IU.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\AdministradorGeneral.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ComprasCuentasPagar.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Contabilidad.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Datos.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Entidades.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Ext.Net.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Ext.Net.Utilities.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Ext.Net.UX.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ModuloSoporte.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\MySql.Data.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\PhantomDb.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\SueldosJornales.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Traductor.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\VentasCuentasCobrar.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\WebChart.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\WebHelper.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Newtonsoft.Json.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\AdministradorGeneral.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ComprasCuentasPagar.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Contabilidad.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Datos.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Entidades.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ModuloSoporte.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\PhantomDb.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\SueldosJornales.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Traductor.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\VentasCuentasCobrar.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\bin\WebHelper.pdb
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\obj\Debug\ResolveAssemblyReference.cache
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\obj\Debug\IU.dll
+F:\FACULTAD\TERCER AÑO\TP_Campo\Trabajo de campo\Proyecto\IU\obj\Debug\IU.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\obj\Debug\IU.csprojResolveAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\obj\Debug\IU.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\obj\Debug\IU.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\IU.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\IU.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\AdministradorGeneral.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ComprasCuentasPagar.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Contabilidad.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Datos.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Entidades.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Ext.Net.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Ext.Net.Utilities.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Ext.Net.UX.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ModuloSoporte.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\MySql.Data.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\PhantomDb.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\SueldosJornales.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Traductor.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\VentasCuentasCobrar.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\WebChart.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\WebHelper.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Newtonsoft.Json.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\AdministradorGeneral.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ComprasCuentasPagar.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Contabilidad.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Datos.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Entidades.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\ModuloSoporte.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\PhantomDb.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\SueldosJornales.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\Traductor.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\VentasCuentasCobrar.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\IU\bin\WebHelper.pdb

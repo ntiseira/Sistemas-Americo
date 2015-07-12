@@ -1,0 +1,69 @@
+C:\Users\nico\Desktop\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\nico\Desktop\Proyecto\Traductor\obj\Debug\Traductor.pdb
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+D:\TRABAJO DE CAMPO\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\nicolas\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\nico\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\nico\Desktop\facu\tp campo(visual 2010)\tp campo(visual 2010)\tp campo(visual 2010)\TP DE CAMPO\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\nico\Desktop\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\nico\Desktop\Nueva carpeta\Trabajo de campo\trunk\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\ntiseira\Desktop\Nueva carpeta\Trabajo de campo\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\obj\Debug\Traductor.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Traductor\bin\Debug\Traductor.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Traductor\bin\Debug\Traductor.pdb
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Traductor\obj\Debug\Traductor.dll
+C:\Users\Nicolas\Desktop\Proyectos freelance\TP_Campo\Trabajo de campo\Proyecto\Traductor\obj\Debug\Traductor.pdb

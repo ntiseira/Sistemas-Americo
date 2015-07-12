@@ -1,0 +1,5 @@
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\bin\Release\Traductor.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\bin\Release\Traductor.pdb
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\obj\Release\Traductor.dll
+C:\Users\nico\Desktop\Trabajo de campo\Proyecto\Traductor\obj\Release\Traductor.pdb
